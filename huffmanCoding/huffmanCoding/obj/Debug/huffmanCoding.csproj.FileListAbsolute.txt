@@ -1,0 +1,6 @@
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.exe.config
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.exe
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.pdb
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.csprojResolveAssemblyReference.cache
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.exe
+c:\users\erens\onedrive\belgeler\visual studio 2015\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.pdb
